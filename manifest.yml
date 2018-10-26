@@ -1,0 +1,7 @@
+---
+applications:
+  - name: accessiblevote-ms-users
+    memory: 512M
+    instances: 1
+    path: target/accessiblevote-ms-users-1.0.0.jar
+
